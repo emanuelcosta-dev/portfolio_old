@@ -10,21 +10,21 @@ const one: Template = {
   position: "Fullstack Web Developer",
   company: "Byside",
   location: "Porto, Portugal",
-  date: "13.02.2023",
+  date: "20.09.2021 - Present",
 };
 const two: Template = {
   link: "https://www.optigest.net/www/PT/",
   position: "Fullstack Web Developer",
   company: "Optigest",
   location: "Porto, Portugal",
-  date: "10.02.2022",
+  date: "01.12.2020 - 20.09.2021",
 };
 const three: Template = {
   link: "https://sidis.ai/",
   position: "Fullstack Web Developer",
   company: "Nemobile",
   location: "Porto, Portugal",
-  date: "10.02.2022",
+  date: "01.03.2020 - 01.09.2020",
 };
 export const bytitle = {
   one,
