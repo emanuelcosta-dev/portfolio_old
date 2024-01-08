@@ -19,6 +19,6 @@
   "dependencies": {
     "@astrojs/sitemap": "^1.0.0",
     "@astrolib/seo": "^0.3.0",
-    "astro-compress": "^1.0.8"
+    "astro-compress": "^2.2.7"
   }
 }
