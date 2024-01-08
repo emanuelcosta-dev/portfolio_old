@@ -19,7 +19,6 @@
   "dependencies": {
     "@astrojs/sitemap": "^1.0.0",
     "@astrolib/seo": "^0.3.0",
-    "@vercel/analytics": "^1.0.1",
     "astro-compress": "^1.0.8"
   }
 }
